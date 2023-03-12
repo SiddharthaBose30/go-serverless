@@ -1,4 +1,4 @@
-module github.com/Siddharthabose30/go-serverless
+module github.com/SiddharthaBose30/go-serverless
 
 go 1.16
 
